@@ -26,14 +26,6 @@ It performs Exploratory Data Analysis (EDA) on sales datasets using visualizatio
 * Matplotlib
 * Seaborn
 
-## Project Structure
-
-Sales-Forecasting-Analysis-System/
-│
-├── sales_forecasting_analysis_system.py
-├── train.csv
-└── README.md
-
 ## Conclusion
 
 This project helps analyze sales performance and supports better business decision-making through data visualization and forecasting insights.
